@@ -1,0 +1,12 @@
+* Sitio web del ANMAT
+:PROPERTIES:
+:heading: 2
+:END:
+** https://www.boletinoficial.gob.ar/busquedaAvanzada/primera
+* Imagenes
+:PROPERTIES:
+:heading: 2
+:END:
+** Búsqueda avanzada del ANMAT
+[[../assets/Screenshot_2023-11-09_at_13-42-03_Boletín_Oficial_de_la_República_Argentina_1699549802931_0.png]]
+**

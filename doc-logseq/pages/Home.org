@@ -1,3 +1,5 @@
+#+PUBLIC: true
+
 * Cursos
   :PROPERTIES:
   :heading: 1

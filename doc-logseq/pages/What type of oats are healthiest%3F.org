@@ -1,0 +1,16 @@
+* Referencias
+:PROPERTIES:
+:heading: 1
+:END:
+** Referencias Oficiales
+:PROPERTIES:
+:heading: 2
+:END:
+** Referencias Extra-Oficiales
+:PROPERTIES:
+:heading: 2
+:END:
+*** [[https://alimentoyconciencia.com/la-avena-asi-no/][La avena así NO - (by Blog Alimento y Conciencia)]]
+*** [[https://alimentoyconciencia.com/crocante-de-avena-fermentada/][Crocante de avena fermentada - (by Blog Alimento y Conciencia)]]
+*** [[https://www.bobsredmill.com/blog/healthy-living/difference-between-quick-cooking-rolled-oats-and-instant-rolled-oats/][Difference between Quick Cooking Rolled Oats and Instant Rolled Oats - (by Blog Bob's Red Mill)]]
+*** [[https://www.quakeroats.com/oats-do-more/why-oats/the-difference-between-our-oats][The difference between our oats - (quakeroats.com)]]

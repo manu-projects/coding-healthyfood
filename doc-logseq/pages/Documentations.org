@@ -1,0 +1,11 @@
+* [[Comunicados del ANMAT/Prohibición de Sal del Himalaya]] #Documentation
+   :PROPERTIES:
+   :type: [[Documentation]]
+   :source: [[official]]
+   :language: [[spanish]]
+   :rating: [[6/10]]
+   :link: https://www.boletinoficial.gob.ar/detalleAviso/primera/280071/20230123
+   :file: -
+   :author: [[ANMAT]]
+   :tags: [[ANMAT]]
+   :END:
