@@ -1,0 +1,61 @@
+* [[Paper/Phytates and the inhibitory effect of bran on iron absorption in man]] #paper #scientific-paper
+   :PROPERTIES:
+   :type: [[Paper]]
+   :language: [[english]]
+   :rating: [[0/10]]
+   :source-name: [[NCBI]], [[National Center for Biotechnology Information]]
+   :source-link: https://pubmed.ncbi.nlm.nih.gov/3034044/
+   :file: -
+   :year-publication: [[1987]]
+   :author: L Hallberg, L Rossander, A B Skanberg 
+   :tags: -
+   :END:
+* [[Paper/Bioavailability of Iron, Zinc, Phytate and Phytase Activity during Soaking and Germination of White Sorghum Varieties]] #paper #scientific-paper
+   :PROPERTIES:
+   :type: [[Paper]]
+   :language: [[english]]
+   :rating: [[0/10]]
+   :source-name: [[NCBI]], [[National Center for Biotechnology Information]]
+   :source-link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3189212/
+   :file: -
+   :year-publication: [[2011]]
+   :author: -
+   :tags: -
+   :END:
+* [[Paper/Reduction of the phytate content of bran by leavening in bread and its effect on zinc absorption in man]] #paper #scientific-paper
+   :PROPERTIES:
+   :type: [[Paper]]
+   :language: [[english]]
+   :rating: [[0/10]]
+   :source-name: [[NCBI]], [[National Center for Biotechnology Information]]
+   :source-link: https://pubmed.ncbi.nlm.nih.gov/2998440/
+   :file: -
+   :year-publication: [[1985]]
+   :author: -
+   :tags: -
+   :END:
+* [[Paper/The effects of prolonged consumption of  wholemeal bread upon metabolism of calcium, magnesium, zinc and  phosphorus of two young American adults]] #paper #scientific-paper
+   :PROPERTIES:
+   :type: [[Paper]]
+   :language: [[english]]
+   :rating: [[0/10]]
+   :source-name: [[NCBI]], [[National Center for Biotechnology Information]]
+   :source-link: https://pubmed.ncbi.nlm.nih.gov/1264463/
+   :file: -
+   :year-publication: [[1976]]
+   :author: B J Campbell, J G Reinhold, JJ Cannell, I Nourmand
+   :tags: -
+   :END:
+* [[Paper/High prevalence of rickets in infants on macrobiotic diets]] #paper #scientific-paper
+   :PROPERTIES:
+   :type: [[Paper]]
+   :language: [[english]]
+   :rating: [[0/10]]
+   :source-name: [[NCBI]], [[National Center for Biotechnology Information]]
+   :source-link: https://pubmed.ncbi.nlm.nih.gov/2154918/
+   :file: -
+   :year-publication: [[1990]]
+   :author: -
+   :tags: -
+   :END:
+*

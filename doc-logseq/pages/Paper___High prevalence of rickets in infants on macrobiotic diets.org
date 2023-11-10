@@ -1,0 +1,16 @@
+* Conceptos relevantes
+:PROPERTIES:
+:heading: 2
+:END:
+** Calcium & Administration & dosage
+** Diet, Macrobiotic & Adverse Effects
+** 25-Hydroxyvitamin D 2 & Blood
+** Dietary Fiber & Administration & dosage
+** Vitamin D Deficiency & Complications
+* Sustancias relevantes
+:PROPERTIES:
+:heading: 2
+:END:
+** [[Substance/Dietary Fiber]]
+** [[Substance/25 Hydroxyvitamin D 2]]
+** [[Substance/Calcium]]

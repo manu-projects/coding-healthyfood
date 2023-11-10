@@ -1,0 +1,19 @@
+* Conceptos relevantes
+:PROPERTIES:
+:heading: 2
+:END:
+** Bread & Adverse Effects
+** Calcium & Metabolism
+** Magnesium & Metabolism
+** Phosphorus & Metabolism
+** Triticum && Adverse Effects
+** Zinc & Metabolism
+* Sustancias relevantes
+:PROPERTIES:
+:heading: 2
+:END:
+** [[Substance/Phosphorus]]
+** [[Substance/Magnesium]]
+** [[Substance/Zinc]]
+** [[Substance/Calcium]]
+** [[Substance/Ph]]

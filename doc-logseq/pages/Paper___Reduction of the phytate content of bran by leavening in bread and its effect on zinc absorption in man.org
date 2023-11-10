@@ -1,0 +1,18 @@
+* Conceptos relevantes
+:PROPERTIES:
+:heading: 2
+:END:
+** Bread & Analysis
+** Calcium & Analysis
+** Dietary Fiber & Analysis
+** Phytic Acid
+** Zinc & Metabolism
+** Biological Availability
+* Sustancias relevantes
+:PROPERTIES:
+:heading: 2
+:END:
+** [[Substance/Dietary Fiber]]
+** [[Substance/Phytic Acid]]
+** [[Substance/Zinc]]
+** [[Substance/Calcium]]

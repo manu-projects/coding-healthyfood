@@ -1,0 +1,28 @@
+* Conceptos relevantes
+:PROPERTIES:
+:heading: 2
+:END:
+** 6-Phytase & Metabolism
+:PROPERTIES:
+:heading: 3
+:END:
+** Iron & Metabolism
+:PROPERTIES:
+:heading: 3
+:END:
+** Phytic Acid & Pharmacology
+:PROPERTIES:
+:heading: 3
+:END:
+** Dietary Fiber & Pharmacology
+:PROPERTIES:
+:heading: 3
+:END:
+* Sustancias relevantes
+:PROPERTIES:
+:heading: 2
+:END:
+** [[Substance/Dietary Fiber]]
+** [[Substance/Phytic Acid]]
+** [[Substance/Iron]]
+** [[Substance/6-Phytase]]
