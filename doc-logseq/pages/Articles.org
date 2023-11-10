@@ -1,20 +1,14 @@
-* [[Conceptos/Programación Reactiva]] #Article
-  :PROPERTIES:
-  :type: [[Article]]
-  :tags: [[reactive programming]], [[reactive manifesto]]
-  :END:
-* [[Conceptos/Interoperabilidad entre Clojurescript y JavaScript]] #Article
-  :PROPERTIES:
-  :type:     [[Article]]
-  :tags:     [[interoperabilidad]], [[javascript]], [[clojurescript]]
-  :END:
-* [[Biblioteca/Google Closure]] #Article
-  :PROPERTIES:
-  :type:     [[Article]]
-  :tags:     [[closure]], [[library]]
-  :END:
-* [[Framework/Reagent]] #Article
-  :PROPERTIES:
-  :type:     [[Article]]
-  :tags:     [[reagent]], [[framework]]
-  :END:
+* [[ANMAT/Buscar alimentos prohibidos por el ANMAT]] #Article
+   :PROPERTIES:
+   :type: [[Article]]
+   :tags: [[ANMAT]]
+   :date-created: [[Nov 9th, 2023]]
+   :date-updated: [[Nov 9th, 2023]]
+   :END:
+* [[What type of oats are healthiest?]] #Article
+   :PROPERTIES:
+   :type: [[Article]]
+   :tags: [[oats]]
+   :date-created: [[Nov 9th, 2023]]
+   :date-updated: [[Nov 9th, 2023]]
+   :END:
