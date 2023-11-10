@@ -357,5 +357,9 @@
  ;;     ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :ui/show-brackets? false
+ :publishing/all-pages-public? true
+ :feature/enable-journals? false
+ :default-home {:page "Home"}
+ :feature/enable-flashcards? false
 
  }
