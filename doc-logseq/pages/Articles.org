@@ -12,3 +12,10 @@
    :date-created: [[Nov 9th, 2023]]
    :date-updated: [[Nov 9th, 2023]]
    :END:
+* [[Fermentos/Avena Fermentada]] #Article
+   :PROPERTIES:
+   :type: [[Article]]
+   :tags: [[oats]]
+   :date-created: [[Nov 16th, 2023]]
+   :date-updated: [[Nov 16th, 2023]]
+   :END:

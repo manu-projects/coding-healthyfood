@@ -1,0 +1,18 @@
+* Conceptos
+:PROPERTIES:
+:heading: 2
+:END:
+** biodisponibilidad
+** enzimas digestivas
+** ácido fítico
+** inhibidores enzimáticos
+** triptófano
+** lisina
+** aminoácidos esenciales
+** fitoquímicos
+**
+* Referencias
+:PROPERTIES:
+:heading: 2
+:END:
+** [[https://www.conasi.eu/blog/colaboradores-especiales/macrobiotica-aida-lirola/como-hacer-copos-avena/][Copos de avena y avena fermentada - (conasi.eu)]]
