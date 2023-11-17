@@ -1,3 +1,42 @@
+* [[Fermented Oats as a Novel Functional Food]] #paper #scientific-paper
+   :PROPERTIES:
+   :type: [[Paper]]
+   :language: [[english]]
+   :rating: [[0/10]]
+   :doi-link:  https://doi.org/10.3390/nu15163521
+   :source-name: [[NCBI]], [[National Center for Biotechnology Information]] 
+   :source-link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10459665/
+   :file: -
+   :year-publication: 2023
+   :author: -
+   :tags: [[fermented oats]] [[functional foods]] 
+   :END:
+* [[Paper/Properties of fermented oat-based composite beverage]] #paper #scientific-paper
+   :PROPERTIES:
+   :type: [[Paper]]
+   :language: [[english]]
+   :rating: [[0/10]]
+   :source-name: [[Science Direct]] 
+   :source-link: https://www.sciencedirect.com/science/article/pii/S240584402202059X
+   :file: [[../assets/properties_of_fermented_oat-based_composite_beverage_1700231727784_0.pdf][properties of fermented oat-based composite beverage.pdf]]
+   :year-publication: 2022
+   :author: -
+   :tags: [[fermented foods]] [[fermented oats]]
+   :END:
+**
+* [[Paper/Starter culture growth properties of fermented oat drink]] #paper #scientific-paper
+   :PROPERTIES:
+   :type: [[Paper]]
+   :language: [[english]]
+   :rating: [[0/10]]
+   :source-name: [[Science Direct]]
+   :source-link: https://www.sciencedirect.com/science/article/pii/S2405844023028347
+   :file: [[../assets/starter_culture_growth_dynamics_and_sensory_properties_of_fermented_oat_drink_1700231409688_0.pdf][starter culture growth dynamics and sensory properties of fermented oat drink.pdf]] 
+   :year-publication: 2023
+   :author: -
+   :tags: [[fermented foods]] [[fermented oats]]
+   :END:
+**
 * [[Paper/Phytates and the inhibitory effect of bran on iron absorption in man]] #paper #scientific-paper
    :PROPERTIES:
    :type: [[Paper]]
